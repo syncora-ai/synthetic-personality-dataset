@@ -1,0 +1,18 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter checkpoints
+**/.ipynb_checkpoints
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore data files (keep only samples)
+data/
+*.csv
+*.xlsx
+
+# Ignore environment files
+.env
