@@ -49,3 +49,10 @@ We’re actively building this repository. Notebooks, visuals, and demo use case
 ## 📜 License
 
 This project is released under the MIT License.
+---
+
+💬 **Get Involved**
+
+Have ideas, questions, or want to contribute? Open an issue or drop a star ⭐ to support privacy-safe AI research.
+
+Made with 💡 by [Syncora.ai](https://syncora.ai)
