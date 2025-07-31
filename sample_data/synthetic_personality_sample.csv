@@ -1,0 +1,6 @@
+user_id,age,time_spent_alone,event_attendance,social_exhaustion,preferred_communication,energy_level,introspection_score,label
+001,24,5,0,8,texting,4,9,1
+002,30,1,4,2,in-person,7,3,0
+003,22,6,1,7,texting,3,8,1
+004,27,2,5,3,in-person,6,2,0
+005,25,7,0,9,texting,2,9,1
