@@ -69,7 +69,14 @@ Introversion and extroversion influence how individuals socialize, recharge, and
 
 > Whether you're exploring personality science or building AI-driven behavioral models, Syncora gives you the freedom to experiment without compromise.
 
----
+## 📦 What This Repo Contains
+
+- **Synthetic Personality Dataset** – Sample data for training AI models, in CSV format.  
+  [**Download Dataset**](https://github.com/syncora-ai/synthetic-personality-dataset/blob/main/sample_data/synthetic_personality_sample.csv)
+
+- **Jupyter Notebook** – Exploration and usage guide for the dataset.  
+  [**Open Notebook**](https://github.com/syncora-ai/synthetic-personality-dataset/blob/main/notebooks/Personality_Syncora_Synthetic_1.ipynb)
+
 
 ## ⚠️ Disclaimer
 
